@@ -1,0 +1,8 @@
+1)destination host unreachible
+2)10.0.0.254
+3)10.100.100.6
+4)Router b and Router C
+5)up and achive 
+6)serial 0/0/00 interface an incorrect ip address 
+7)change s0/0/0 to 0.100.100.9/30
+8
